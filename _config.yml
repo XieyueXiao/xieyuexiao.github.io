@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/graduation_square.jpg"
+  avatar           : "profile.png"
   name             : "Xieyue Xiao (肖撷玥)"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Human Gut Microbiome"

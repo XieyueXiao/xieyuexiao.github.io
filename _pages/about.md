@@ -9,11 +9,11 @@ redirect_from:
 
 I am a postdoctoral researcher in Sonnenburg Lab at Stanford University, interested in investigating the human gut microbiome of non-industrialized populations. I earned my Ph.D. in Biomedical Engineering from Brito lab, Cornell University.  
 
-A data-driven personal website
+Recent News
 ======
 Heading 1
 
-Site-wide configuration
+Heading 2
 ------
 Heading 2
 
